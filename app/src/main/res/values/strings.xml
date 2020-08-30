@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinTechTestApp</string>
+
+    <string name="developers_life">Developers Life</string>
+
+    <string name="hot">Горячие</string>
+    <string name="last">Последние</string>
+    <string name="best">Лучшие</string>
+    <string name="random">Случайное</string>
+    <string name="error">При загрузке данных произошла ошибка. Проверьте ваше подключение к сети</string>
+    <string name="retry">Повторить</string>
+
+</resources>
